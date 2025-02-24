@@ -36,8 +36,17 @@ The app.py script provides an interactive map where you can visualize the geocod
  - The map is generated using Folium with a default zoom level and position based on the mean latitude and longitude of the clients.
  - You can choose to display the data as:
    - Markers: Pins representing client locations.
+[streamlit-app-2025-02-24-01-02-70.webm](https://github.com/user-attachments/assets/b90bcd22-1f71-4701-9b68-eccfeea97aaf)
+
+
    - Heat Map: A heatmap visualization of client density.
+[streamlit-app-2025-02-24-01-02-70 (1).webm](https://github.com/user-attachments/assets/62ebca25-b111-4678-81ce-6a26aba96d02)
+
+
    - Marker Clusters: A clustered view for better handling large sets of data points.
+[streamlit-app-2025-02-24-01-02-77.webm](https://github.com/user-attachments/assets/7645a224-e9b9-4d9a-9483-a21b71bb3615)
+
+
 ### 3. Running the Streamlit App
 To run the app, use the following command:
 `streamlit run app.py`
