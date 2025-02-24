@@ -20,6 +20,7 @@ The following Python libraries are required to run the scripts:
  - streamlit
  - streamlit_folium
  - math
+
 You can install the dependencies using pip:
 `pip install pandas numpy geopandas geopy gspread folium streamlit streamlit_folium`
 ## Setup
